@@ -9,8 +9,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MethunM10)
 
-**Self-driven AI & Data Science undergraduate** with practical experience in AI, deep learning, computer vision, and full-stack development. Passionate about solving real-world problems.
-
 - 🎓 B.Tech AI & Data Science at **Knowledge Institute of Technology** (2022 – 2026), CGPA **8.6**
 - 🔭 Building **FrndTrack**, a cross-platform RPG app that gamifies habits
 - 🛠️ Working on **computer vision, ML, and full-stack** projects
